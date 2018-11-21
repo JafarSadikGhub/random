@@ -1,0 +1,17 @@
+ADD $rd,$rs,$rt
+SUB $rd,$rs,$rt
+AND $rd,$rs,$rt
+XOR $rd,$rs,$rt
+NOR $rd,$rs,$rt
+OR $rd,$rs,$rt
+srl $rd,$rs,$rt
+sll $rd,$rs,$rt
+ADDi $rt,$rs,2
+ANDi $rt,$rs,2
+ORi $rt,$rs,1
+lui $rt,$rs,2
+lw $rt,$rs,2
+sw $rt,$rs,2
+lb $rt,$rs,2
+sb $rt,$rs,2
+
